@@ -9,15 +9,18 @@ class GameItem extends Component {
 
     this.state = {
       className: "game-item",
-      type: this.props.type,
+      type: this.props.type
     };
   }
 
   markItem = (event) => {
     if (this.state.type === "litter") {
+      // this.props.points += 1;
+      console.log("I'm in markItem");
       this.setState({
-        className: "game-item spotted-litter"
+        className: "game-item spotted-litter",
       })
+      this.props.callback();
     }
     else {
       this.setState({
@@ -37,26 +40,9 @@ class GameItem extends Component {
     // Update this to select the correct icon for each item
     const icon = ItemIcons[this.props.type];
 
-        // let changeClass = null;
-      //   if (itemStyle.type === "litter") {
-      //      let markItem = (event) => {
-      //       this.setState({
-      //         itemClass: "game-item  spotted-litter::before"
-      //       })
-      //   }
-      // }
-      //   else {
-      //     let markItem = (event) => {
-      //       this.setState({
-      //         itemClass: "game-item  spotted-nature::before"
-      //       })
-      //   }
-      // }
-
-
     return (
       <div className={this.state.className} style={itemStyle}>
-        <img src={icon} alt="Item" className="icon-item" onClick={this.markItem}></img>
+        <img src={icon} alt="Item" className="icon-item" onClick={this.markItem} ></img>
       </div>
     );
   }
