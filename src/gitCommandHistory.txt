@@ -1,0 +1,300 @@
+  234  20/02/19 16:52:41 gs
+  235  20/02/19 16:52:41 ga dashboard/test/ui/features/share_buttons.feature
+  236  20/02/19 16:52:41 gs
+  237  20/02/19 16:52:41 git commit -m "refactored test to remove unnecessary comments and clarified scenario title for game lab"
+  238  20/02/19 16:52:41 gs
+  239  20/02/19 16:52:41 git push
+  240  20/02/19 16:52:41 tree
+  241  20/02/19 16:52:41 cd log/
+  242  20/02/19 16:52:41 tail -f *.log
+  243  20/02/19 16:52:41 tail -f *.log
+  244  20/02/19 16:52:41 ls
+  245  20/02/19 16:52:41 cd code-dot-org/
+  246  20/02/19 16:52:41 ls
+  247  20/02/19 16:52:41 cd apps
+  248  20/02/19 16:52:41 yarn start
+  249  20/02/19 16:52:41 npm init
+  250  20/02/19 16:52:41 npm init
+  251  20/02/19 16:52:41 sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
+  252  20/02/19 16:52:41 xcodebuild -version
+  253  20/02/19 16:52:41 which xcodebuild
+  254  20/02/19 16:52:41 which xcode
+  255  20/02/19 16:52:41 which python2
+  256  20/02/19 16:52:41 where python2
+  257  20/02/19 16:52:41 python2 -v
+  258  20/02/19 16:52:41 python3
+  259  20/02/19 16:52:41 brew install python@2
+  260  20/02/19 16:52:41 python2 --v
+  261  20/02/19 16:52:41 python2 -v
+  262  20/02/19 16:52:41 sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
+  263  20/02/19 16:52:41 cd dashboard/test/ui/
+  264  20/02/19 16:52:41 tail -f *.log
+  265  20/02/19 16:52:41 tail -f *.log
+  266  20/02/19 16:52:41 ls
+  267  20/02/19 16:52:41 tail -f .log
+  268  20/02/19 16:52:41 tail -f log
+  269  20/02/19 16:52:41 tail -f *log
+  270  20/02/19 16:52:41 tail -f *log
+  271  20/02/19 16:52:41 tail -f *.log
+  272  20/02/19 16:52:41 ls
+  273  20/02/19 16:52:41 cd log/
+  274  20/02/19 16:52:41 tail -f *.log
+  275  20/02/19 16:52:41 ls -bin
+  276  20/02/19 16:52:41 history
+  277  20/02/19 16:52:41 cd ..
+  278  20/02/19 16:52:41 ls
+  279  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  280  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  281  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  282  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  283  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  284  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  285  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  286  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  287  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  288  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  289  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  290  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  291  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  292  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  293  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  294  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  295  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  296  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  297  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  298  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  299  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  300  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  301  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  302  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  303  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  304  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  305  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  306  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  307  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  308  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  309  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  310  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  311  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  312  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  313  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  314  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  315  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  316  20/02/19 16:52:41 ./runner.rb -l -f features/share_buttons.feature --html
+  317  20/02/19 16:52:41 pry
+  318  20/02/19 16:52:41 history
+  319  20/02/19 16:52:41 irb
+  320  20/02/19 16:52:41 pry
+  321  20/02/19 16:52:41 pry
+  322  20/02/19 16:52:41 cd ..
+  323  20/02/19 16:52:41 cd ..
+  324  20/02/19 16:52:41 bin/aws_access
+  325  20/02/19 16:52:41 aws --profile cdo s3 ls
+  326  20/02/19 16:52:41 aws --profile cdo s3 ls
+  327  20/02/19 16:52:41 aws --version
+  328  20/02/19 16:52:41 brew install awscli
+  329  20/02/19 16:52:41 brew link --overwrite --dry-run python
+  330  20/02/19 16:52:41 brew link --overwrite --dry-run python
+  331  20/02/19 16:52:41 brew link --overwrite python
+  332  20/02/19 16:52:41 aws --version
+  333  20/02/19 16:52:41 aws --profile cdo s3 ls
+  334  20/02/19 16:52:41 bin/aws_access
+  335  20/02/19 16:52:41 bu
+  336  20/02/19 16:52:41 aws --profile cdo s3 ls
+  337  20/02/19 16:52:41 cd ..
+  338  20/02/19 16:52:41 cd ..
+  339  20/02/19 16:52:41 cd ..
+  340  20/02/19 16:52:41 ls
+  341  20/02/19 16:52:41 cd code-dot-org/
+  342  20/02/19 16:52:41 cd tools/scripts/
+  343  20/02/19 16:52:41 pry
+  344  20/02/19 16:52:41 ./generateSoundMetadata.rb
+  345  20/02/19 16:52:41 pry
+  346  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two,
+  347  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two, Dir["/Users/hawaii/Downloads/App/mp3_files/*"]
+  348  20/02/19 16:52:41 ruby generateSoundMetadata.rb 
+  349  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two, Dir["/Users/hawaii/Downloads/App/mp3_files/*"]
+  350  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two,... Dir["/Users/hawaii/Downloads/App/mp3_files/*"]
+  351  20/02/19 16:52:41 brew install parallel
+  352  20/02/19 16:52:41 gem install parallel
+  353  20/02/19 16:52:41 bundle instll
+  354  20/02/19 16:52:41 bundle install
+  355  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two,... Dir["/Users/hawaii/Downloads/App/mp3_files/*"]
+  356  20/02/19 16:52:41 gem list | grep parallel
+  357  20/02/19 16:52:41 gem install parallel -v 1.13.0
+  358  20/02/19 16:52:41 bundle install
+  359  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two,... Dir["/Users/hawaii/Downloads/App/mp3_files/*"]
+  360  20/02/19 16:52:41 gem list | grep parellel
+  361  20/02/19 16:52:41 gem list | grep parallel
+  362  20/02/19 16:52:41 bundle install
+  363  20/02/19 16:52:41 gem list | grep parellel
+  364  20/02/19 16:52:41 gem list | grep parallel
+  365  20/02/19 16:52:41 parallel --v
+  366  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two,... Dir["/Users/hawaii/Downloads/App/mp3_files/*"]
+  367  20/02/19 16:52:41 bundle update
+  368  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two,... Dir["/Users/hawaii/Downloads/App/mp3_files/*"]
+  369  20/02/19 16:52:41 brew install taglib
+  370  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two,... Dir["/Users/hawaii/Downloads/App/mp3_files/*"]
+  371  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two,... Dir["/Users/hawaii/Downloads/App/mp3_files/*"]
+  372  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two,... Dir["/Users/hawaii/Downloads/App/mp3_files/*"]
+  373  20/02/19 16:52:41 bundle install
+  374  20/02/19 16:52:41 gem install taglib
+  375  20/02/19 16:52:41 cd ..
+  376  20/02/19 16:52:41 cd ..
+  377  20/02/19 16:52:41 gem install taglib
+  378  20/02/19 16:52:41 gem install taglib-ruby
+  379  20/02/19 16:52:41 bundle install
+  380  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two,... Dir["/Users/hawaii/Downloads/App/mp3_files/*"]
+  381  20/02/19 16:52:41 cd tools/
+  382  20/02/19 16:52:41 cd scripts/
+  383  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two,... Dir["/Users/hawaii/Downloads/App/mp3_files/*"]
+  384  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two,... Dir["/Users/hawaii/Downloads/App/mp3_files/*"]
+  385  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two,... Dir["/Users/hawaii/Downloads/App/mp3_files/*"]
+  386  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two,... Dir["/Users/hawaii/Downloads/App/mp3_files/*"]
+  387  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two,... "/Users/hawaii/Downloads/App/mp3_files/App_Menu_Button_6v2.mp3"
+  388  20/02/19 16:52:41 cd code-dot-org/
+  389  20/02/19 16:52:41 ./generateSoundMetadata.rb --help
+  390  20/02/19 16:52:41 cd apps/
+  391  20/02/19 16:52:41 cd apps/
+  392  20/02/19 16:52:41 ./generateSoundMetadata.rb --help
+  393  20/02/19 16:52:41 ls
+  394  20/02/19 16:52:41 cd ..
+  395  20/02/19 16:52:41 ls
+  396  20/02/19 16:52:41 cd tools/scripts/
+  397  20/02/19 16:52:41 ./generateSoundMetadata.rb --help
+  398  20/02/19 16:52:41 brew install taglib
+  399  20/02/19 16:52:41 gem install taglib-ruby
+  400  20/02/19 16:52:41 ./generateSoundMetadata.rb --help
+  401  20/02/19 16:52:41 ./generateSoundMetadata.rb --help
+  402  20/02/19 16:52:41 bundle install
+  403  20/02/19 16:52:41 ./generateSoundMetadata.rb --help
+  404  20/02/19 16:52:41 gs
+  405  20/02/19 16:52:41 git checkout master
+  406  20/02/19 16:52:41 git branch
+  407  20/02/19 16:52:41 git checkout staging
+  408  20/02/19 16:52:41 rake build
+  409  20/02/19 16:52:41 bundle exec rake build
+  410  20/02/19 16:52:41 gs
+  411  20/02/19 16:52:41 git pull
+  412  20/02/19 16:52:41 ga ../../dashboard/config/locales/dsls.en.yml
+  413  20/02/19 16:52:41 ga ../../dashboard/db/schema_cache.dump
+  414  20/02/19 16:52:41 git pull
+  415  20/02/19 16:52:41 git stash
+  416  20/02/19 16:52:41 git pull
+  417  20/02/19 16:52:41 gs
+  418  20/02/19 16:52:41 gs
+  419  20/02/19 16:52:41 git branch
+  420  20/02/19 16:52:41 git checkout -b converting-.wav-to-.mp3
+  421  20/02/19 16:52:41 .../
+  422  20/02/19 16:52:41 ...
+  423  20/02/19 16:52:41 cd ...
+  424  20/02/19 16:52:41 cd ..
+  425  20/02/19 16:52:41 ../..
+  426  20/02/19 16:52:41 cd scripts/
+  427  20/02/19 16:52:41 ./generateSoundMetadata.rb
+  428  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases
+  429  20/02/19 16:52:41 brew install taglib
+  430  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases category_accent
+  431  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two,...
+  432  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two,... category_accent
+  433  20/02/19 16:52:41 brew install taglib
+  434  20/02/19 16:52:41 brew reinstall taglib
+  435  20/02/19 16:52:41 gem install taglib-ruby
+  436  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two,... category_accent
+  437  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two,... Puzzle_Game_Accent_A_01.mp3
+  438  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases Puzzle_Game_Accent_A_01.mp3
+  439  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one Puzzle_Game_Accent_A_01.mp3
+  440  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one category_background/airport.mp3
+  441  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two,... category_background/airport.mp3
+  442  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two,... [https://s3.amazonaws.com/cdo-sound-library/category_background/airport.mp3]
+  443  20/02/19 16:52:41 "source ~/.bash_profile
+  444  20/02/19 16:52:41 source ~/.bash_profile
+  445  20/02/19 16:52:41 source ~/.bash_profile
+  446  20/02/19 16:52:41 bu
+  447  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two,... [https://s3.amazonaws.com/cdo-sound-library/category_background/airport.mp3]
+  448  20/02/19 16:52:41 gem install taglib-ruby
+  449  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two,... [https://s3.amazonaws.com/cdo-sound-library/category_background/airport.mp3]
+  450  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one. [https://s3.amazonaws.com/cdo-sound-library/category_background/airport.mp3]
+  451  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one [https://s3.amazonaws.com/cdo-sound-library/category_background/airport.mp3]
+  452  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases [https://s3.amazonaws.com/cdo-sound-library/category_background/airport.mp3]
+  453  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two,... [https://s3.amazonaws.com/cdo-sound-library/category_background/airport.mp3]
+  454  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two,... [https://s3.amazonaws.com/cdo-sound-library/category_background/airport.mp3]
+  455  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two,...
+  456  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two,... 
+  457  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two, [https://s3.amazonaws.com/cdo-sound-library/category_background/airport.mp3]
+  458  20/02/19 16:52:41 ./generateSoundMetadata.rb --aliases one,two [https://s3.amazonaws.com/cdo-sound-library/category_background/airport.mp3]
+  459  20/02/19 16:52:41 bundle exec ./generateSoundMetadata.rb --aliases one,two [https://s3.amazonaws.com/cdo-sound-library/category_background/airport.mp3]
+  460  20/02/19 16:52:41  ./generateSoundMetadata.rb --aliases one,two [https://s3.amazonaws.com/cdo-sound-library/category_background/airport.mp3]
+  461  20/02/19 16:52:41 gem list
+  462  20/02/19 16:52:41 gem list | grep taglib
+  463  20/02/19 16:52:41 cd ..
+  464  20/02/19 16:52:41 cd ..
+  465  20/02/19 16:52:41 cd apps/
+  466  20/02/19 16:52:41 brew install taglib
+  467  20/02/19 16:52:41 gem install taglib
+  468  20/02/19 16:52:41 gem install taglib2
+  469  20/02/19 16:52:41 bundle update
+  470  20/02/19 16:52:41 cd ..
+  471  20/02/19 16:52:41 gem install taglib2
+  472  20/02/19 16:52:41 bundle install
+  473  20/02/19 16:52:41 bundle install
+  474  20/02/19 16:52:41 cd ..
+  475  20/02/19 16:52:41 ls
+  476  20/02/19 16:52:41 cd Do
+  477  20/02/19 16:52:41 cd Downloads/
+  478  20/02/19 16:52:41 touch create_metadata.sh
+  479  20/02/19 16:52:41 touch parse_sound_csv.rb
+  480  20/02/19 16:52:41 ruby parse_sound_csv.rb 
+  481  20/02/19 16:52:41 pry
+  482  20/02/19 16:52:41 ruby parse_sound_csv.rb 
+  483  20/02/19 16:52:41 ruby parse_sound_csv.rb 
+  484  20/02/19 16:52:41 ruby parse_sound_csv.rb 
+  485  20/02/19 16:52:41 ruby parse_sound_csv.rb 
+  486  20/02/19 16:52:41 ruby parse_sound_csv.rb 
+  487  20/02/19 16:52:41 ruby parse_sound_csv.rb 
+  488  20/02/19 16:52:41 ruby parse_sound_csv.rb 
+  489  20/02/19 16:52:41 ruby parse_sound_csv.rb 
+  490  20/02/19 16:52:41 ruby parse_sound_csv.rb 
+  491  20/02/19 16:52:41 ruby parse_sound_csv.rb 
+  492  20/02/19 16:52:41 cd App
+  493  20/02/19 16:52:41 ruby parse_sound_csv.rb 
+  494  20/02/19 16:52:41 cd ..
+  495  20/02/19 16:52:41 ruby parse_sound_csv.rb 
+  496  20/02/19 16:52:41 pry
+  497  20/02/19 16:52:41 bundle installls
+  498  20/02/19 16:52:41 ls
+  499  20/02/19 16:52:43 cd ../../..
+  500  20/02/19 16:52:46 ls
+  501  20/02/19 16:52:48 cd ada/
+  502  20/02/19 16:52:49 ls
+  503  20/02/19 16:53:00 cd javascript/
+  504  20/02/19 16:53:01 ls
+  505  20/02/19 16:53:03 cd inspiration-board/
+  506  20/02/19 16:53:06 gb
+  507  20/02/19 16:53:15 npm start
+  508  20/02/19 16:54:17 cd ..
+  509  20/02/19 16:54:17 ls
+  510  20/02/19 16:54:28 cd react-chatlog/
+  511  20/02/19 16:54:51 cd ..
+  512  20/02/19 16:54:54 cd litter-patrol/
+  513  20/02/19 16:54:57 gb
+  514  20/02/19 16:55:04 npm start
+  515  20/02/19 16:55:26 gs
+  516  20/02/19 16:55:34 git checkout -b testing
+  517  20/02/19 16:55:49 atom .git/config
+  518  20/02/19 16:56:20 ls
+  519  20/02/19 16:56:32 cd src/
+  520  20/02/19 16:56:37 atom .git/config
+  521  20/02/19 17:07:21 HISTTIMEFORMAT="%d/%m/%y %T "
+  522  20/02/19 17:07:28 history | grep "ga " > gitCommandHistory.txt
+  523  20/02/19 17:07:51 history | grep "ga " > gitCommandHistory.txt
+  524  20/02/19 17:08:18 HISTTIMEFORMAT="%d/%m/%y %T "
+  525  20/02/19 17:08:19 history 300 > gitCommandHistory.txt
+  526  20/02/19 17:08:38 HISTTIMEFORMAT="%d/%m/%y %T "
+  527  20/02/19 17:08:39 history 300 > gitCommandHistory.txt
+  528  20/02/19 17:10:23 HISTTIMEFORMAT="%d/%m/%y %T "
+  529  20/02/19 17:10:24 history 300 > gitCommandHistory.txt
+  530  20/02/19 17:10:30 HISTTIMEFORMAT="%d/%m/%y %T "
+  531  20/02/19 17:10:31 history 300 > gitCommandHistory.txt
+  532  20/02/19 17:11:17 HISTTIMEFORMAT="%d/%m/%y %T "
+  533  20/02/19 17:11:19 history 300 > gitCommandHistory.txt
